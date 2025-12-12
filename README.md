@@ -1,6 +1,6 @@
 # Projet TP Git -Groupe_8
 
-**Nom du projet : À REMPLACER PAR LE GROUPE**
+**Nom du projet : Projet Git – Groupe 8**
 
 Bienvenue dans ce petit TP Git.
 
